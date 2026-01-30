@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quick Start
+title: 시작하기
 nav_order: 2
 ---
 # Quick Start
