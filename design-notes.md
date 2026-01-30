@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 문서 설계 노트
-nav_order: 4
+nav_order: 5
 ---
 # 문서 설계 노트 (Design Notes)
 
