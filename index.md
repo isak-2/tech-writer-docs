@@ -6,7 +6,7 @@ This site demonstrates how a technical writer structures
 clear, user-focused technical documentation.
 
 ## Contents
-- Getting Started
-- Usage Guide
-- Command Reference
+- getting-started
+- guides
+- reference
 
