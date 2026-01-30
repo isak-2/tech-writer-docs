@@ -1,8 +1,8 @@
 title: LogBird Documentation
 description: 기술 문서 전문가의 포트폴리오 사이트
-remote_theme: just-the-docs/just-the-docs/
+remote_theme: just-the-docs/just-the-docs
 
-# 테마 설정
-color_scheme: light # 또는 dark
+color_scheme: light
+
 aux_links:
-  "GitHub Repository": "https://isak-2.github.io/tech-writer-docs/"
+  "GitHub Repository": "https://github.com/isak-2/tech-writer-docs"
