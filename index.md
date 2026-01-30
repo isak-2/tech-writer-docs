@@ -2,7 +2,6 @@
 layout: default
 title: Home
 nav_order: 1
-description: "LogBird 문서 사이트 홈"
 ---
 # LogBird Documentation
 
