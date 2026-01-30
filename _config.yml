@@ -1,8 +1,17 @@
-title: LogBird Documentation
-description: 기술 문서 전문가의 포트폴리오 사이트
-remote_theme: just-the-docs/just-the-docs
+title: "LogBird Documentation"
+description: "기술 문서 전문가의 포트폴리오 사이트"
 
-color_scheme: light
+# Remote theme (공식 레포 이름으로 지정)
+remote_theme: "pmarsceill/just-the-docs"
+
+# 원격 테마 사용을 위해 플러그인 활성화 필요
+plugins:
+  - jekyll-remote-theme
+
+# 사이트 설정
+color_scheme: "light"
+language: "ko"
+permalink: /:path/
 
 aux_links:
   "GitHub Repository": "https://github.com/isak-2/tech-writer-docs"
