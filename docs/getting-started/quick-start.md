@@ -3,7 +3,7 @@ layout: default
 title: 시작하기
 nav_order: 2
 ---
-# Quick Start
+# 시작하기 
 
 LogBird를 설치하고 첫 번째 로그를 분석하는 데는 1분이 채 걸리지 않습니다.
 
