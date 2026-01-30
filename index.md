@@ -10,3 +10,5 @@ clear, user-focused technical documentation.
 - guides
 - reference
 
+## 포트폴리오 정보
+* [문서 설계 전략(Design Notes)](./design-notes.md) 확인하기
