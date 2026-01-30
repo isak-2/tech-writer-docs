@@ -1,3 +1,8 @@
+--
+layout: default
+title: Design Notes
+nav_order: 4
+---
 # 문서 설계 노트 (Design Notes)
 
 이 페이지는 **LogBird** 프로젝트 문서를 설계하며 고려한 전략과 기술적 판단 근거를 기록한 케이스 스터디입니다.
