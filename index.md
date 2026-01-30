@@ -8,6 +8,9 @@ description: "LogBird 문서 사이트 홈"
 
 Welcome to the LogBird documentation site. 
 이 사이트는 기술 문서의 정보 설계와 사용자 중심 라이팅 역량을 보여주기 위한 포트폴리오입니다.
+> **Note**
+> LogBird is a fictional CLI tool created for documentation and technical writing portfolio purposes.
+> LogBird는 서버 및 애플리케이션 로그를 수집·필터링·전송하는 가상의 CLI 기반 로그 관리 도구입니다.
 
 ---
 
