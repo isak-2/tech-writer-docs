@@ -1,3 +1,8 @@
+---
+layout: default
+title: 명령어 참조
+nav_order: 4
+---
 # 명령어 참조 (CLI Reference)
 
 LogBird에서 지원하는 모든 명령어와 옵션 목록입니다.
