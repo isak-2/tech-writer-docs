@@ -9,7 +9,7 @@ plugins:
   - jekyll-remote-theme
 
 # 사이트 설정
-color_scheme: "light"
+color_scheme: "dark"
 language: "ko"
 permalink: /:path/
 
